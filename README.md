@@ -1,2 +1,2 @@
 # AIchatgpt
-AI应用全搜索
+AI应用
